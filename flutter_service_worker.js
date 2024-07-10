@@ -34,9 +34,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "c7db3b3ad9771d86412b1e564c705efc
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "icons/zeeshi.jpg": "0bfe07d466a10b5fe82b169f11ed9823",
-"index.html": "fbe431a8d559b03609615970431decc9",
-"/": "fbe431a8d559b03609615970431decc9",
-"main.dart.js": "d97ab39919718ce62fb25befadbb1dfa",
+"index.html": "7341fb14b61feccaadf35baa50467527",
+"/": "7341fb14b61feccaadf35baa50467527",
+"main.dart.js": "ea020fcdb8e64a0ef364e23009d899aa",
 "manifest.json": "04f838248b776641b8bf45e5b868fe51",
 "version.json": "00f673ed1fbf1386a95e3f48f638095d",
 "web.jpg": "bc0be1e4e1040deed5d9eb85a554586f"};
